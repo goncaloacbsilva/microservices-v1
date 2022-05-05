@@ -1,5 +1,5 @@
 <p align="center"><img 
-src="https://raw.githubusercontent.com/goncaloacbsilva/spring-restful-web-services/master/rep-image.png" 
+src="https://github.com/goncaloacbsilva/microservices-v2/blob/main/rep-image.png" 
 alt="project-image"></p>
 
 <p align="center"><img 
